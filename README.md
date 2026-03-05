@@ -62,42 +62,6 @@ OpenAI / GPT integration • LangChain • Agile / Scrum • Technical mentoring
 
 ---
 
-## Professional Journey
-
-**2023 – Jan 2026**  
-**Software Engineer | Full-Stack & Blockchain**  
-Car Geek USA
-
-**2021 – 2023**  
-**MERN Stack & Blockchain Developer**  
-K-Hive
-
-**2019 – 2021**  
-**Software Developer**  
-BellMedEx
-
-**2019 – Present**  
-**Freelance Senior Full-Stack, Blockchain & AI Engineer**  
-10+ long-term projects delivered for global clients
-
----
-
-## Selected Work Highlights
-
-- **NFT Marketplace on Sui**  
-  Move smart contracts, royalties, auctions, wallet integration, Next.js + NestJS
-
-- **AI-Powered Analytics Dashboard**  
-  Natural language queries, automated insights, React + Python + OpenAI GPT
-
-- **Automotive Marketplace Platform**  
-  High-traffic vehicle listing & buying system (Next.js, Node.js, MySQL, AWS)
-
-- **Cross-Chain DeFi Protocol**  
-  Staking, liquidity pools, transaction policies (Solidity, Ethereum/Polygon, The Graph)
-
----
-
 ## Let's Connect
 
 I'm particularly interested in:
