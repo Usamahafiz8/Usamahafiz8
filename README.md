@@ -13,7 +13,7 @@
   <a href="mailto:usamahafiz8@gmail.com">
     <img src="https://img.shields.io/badge/✉️_usamahafiz8@gmail.com-blue?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
   </a>
-  <a href="https://www.linkedin.com/in/muhammad-osama">
+  <a href="https://www.linkedin.com/in/muhammadosamaanwar/">
     <img src="https://img.shields.io/badge/LinkedIn-in-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
   </a>
   <a href="https://github.com/muhammad-osama">
